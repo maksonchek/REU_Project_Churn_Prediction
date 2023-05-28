@@ -1,1 +1,1 @@
-# REU_Project_Churn_Prediction
+#Предсказание оттока клиентов
